@@ -19,4 +19,4 @@
 
 - 👯 Всегда рад новым знакомствам
 
-- 📫 Как меня найти:  [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/starkkof) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=blue)](mailto:dmitry1298@yandex.ru)
+- 📫 Как меня найти: [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=blue)](dmitry1298@yandex.ru) [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/starkkof) 
