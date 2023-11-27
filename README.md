@@ -19,4 +19,4 @@
 
 - 👯 Всегда рад новым знакомствам
 
-- 📫 Как меня найти: mail me @
+- 📫 Как меня найти: [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/starkkof)
