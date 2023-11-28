@@ -22,6 +22,16 @@
 
 - 👯 Всегда рад новым знакомствам
 
-- 📫 Как меня найти: [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:martynovdmitry1298@gmail.com) [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/starkkof) 
+- 📫 Как меня найти: [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:martynovdmitry1298@gmail.com) 
 
 ---
+
+### 🤝 Социальные сети:
+
+ <div id="badges">
+    <a href="https://t.me/starkkof" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
+    <a href="https://vk.com/id279852670" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
+    </a>
+  </div>
