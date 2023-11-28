@@ -58,7 +58,7 @@
  <div id="badges">
     <a href="https://stepik.org/users/434117023/profile" target="_blank">
       <img src="assets/icons/stepik.png" width="45" height="45" alt="Stepik" />
-<!--     <a href="https://drive.google.com/file/d/1X3LxKDhfx5uRdeJ8jX5y6kA_o_KNb-Je/view?usp=sharing" target="_blank">
-      <img src="" width="45" height="45" alt="KarpovCourses"/> -->
+    <a href="https://drive.google.com/file/d/1X3LxKDhfx5uRdeJ8jX5y6kA_o_KNb-Je/view?usp=sharing" target="_blank">
+      <img src="assets/icons/karpov.png" width="45" height="45" alt="KarpovCourses"/>
     </a>
   </div>
