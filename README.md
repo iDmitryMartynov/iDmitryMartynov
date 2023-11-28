@@ -69,4 +69,15 @@
 
 ### ⚙️ Статистика:
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=iDmitryMartynov&theme=dark&background=000000)](https://git.io/streak-stats) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iDmitryMartynov&show_icons=true&theme=transparent)
+<table>
+  <tr>
+    <td>
+      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=iDmitryMartynov&theme=dark&background=000000" alt="Github stats" />
+    </td>
+    <td>
+      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats.vercel.app/api?username=iDmitryMartynov&show_icons=true&theme=transparent" />
+    </td>
+  </tr>
+</table>
+
+
