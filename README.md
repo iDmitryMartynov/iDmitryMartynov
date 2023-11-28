@@ -39,6 +39,7 @@
   <img src="assets/icons/tableau.svg" title="Tableau" alt="Tableau" width="45" height="45"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" title="Gitlab" alt="Gitlab" width="45" height="45"/>&nbsp
   <img src="assets/icons/airflow.svg" title="Airflow" alt="Airflow" width="45" height="45"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="45" height="45"/>&nbsp
 </div>
 
 ---
