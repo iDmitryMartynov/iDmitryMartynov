@@ -42,18 +42,6 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### 🤝 Социальные сети:
-
- <div id="badges">
-    <a href="https://t.me/starkkof" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
-    <a href="https://vk.com/id279852670" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
-    </a>
-  </div>
-
----
-
 ### :electron: Мой прогресс:
  <div id="badges">
     <a href="https://stepik.org/users/434117023/profile" target="_blank">
@@ -62,5 +50,17 @@
       <img src="assets/icons/karpov.png" width="45" height="45" alt="KarpovCourses"/>
     <a href="https://drive.google.com/file/d/1LvGtlvEFW-VuCQ2RpHLrweOt4lfxqOAg/view?usp=sharing" target="_blank">
       <img src="assets/icons/sql.svg" width="45" height="45" alt="sql"/>
+    </a>
+  </div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+### 🤝 Социальные сети:
+
+ <div id="badges">
+    <a href="https://t.me/starkkof" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
+    <a href="https://vk.com/id279852670" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
     </a>
   </div>
