@@ -21,7 +21,7 @@
 
 - 👯 Всегда рад новым знакомствам
 
-- 📫 Как меня найти: [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:martynovdmitry1298@gmail.com) 
+- 📫 Как меня найти: [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=blue)](mailto:martynovdmitry1298@gmail.com) 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
@@ -35,6 +35,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="Numpy" alt="Numpy" width="45" height="45"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" title="Matplotlib" alt="Matplotlib" width="45" height="45"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" title="Scipy" alt="Scipy" width="45" height="45"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" title="Gitlab" alt="Gitlab" width="45" height="45"/>&nbsp
   <img src="assets/icons/airflow.svg" title="Airflow" alt="Airflow" width="45" height="45"/>&nbsp
 </div>
 
