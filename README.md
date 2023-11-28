@@ -36,7 +36,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="Numpy" alt="Numpy" width="45" height="45"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" title="Matplotlib" alt="Matplotlib" width="45" height="45"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" title="Scipy" alt="Scipy" width="45" height="45"/>&nbsp
-  <img src="assets/icons/selenium.svg" title="Selenium" alt="Selenium" width="45" height="45"/>&nbsp
   <img src="assets/icons/tableau.svg" title="Tableau" alt="Tableau" width="45" height="45"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" title="Gitlab" alt="Gitlab" width="45" height="45"/>&nbsp
   <img src="assets/icons/airflow.svg" title="Airflow" alt="Airflow" width="45" height="45"/>&nbsp
