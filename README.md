@@ -25,7 +25,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
-### 💻 & 🛠 Технологии и инструменты:
+### 💻 & 🛠 Технологии и инструменты: 
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="45" height="45"/>&nbsp
@@ -34,6 +34,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="45" height="45"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="Numpy" alt="Numpy" width="45" height="45"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" title="Matplotlib" alt="Matplotlib" width="45" height="45"/>&nbsp
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" title="Scipy" alt="Scipy" width="45" height="45"/>&nbsp
   <img src="assets/icons/airflow.svg" title="Airflow" alt="Airflow" width="45" height="45"/>&nbsp
 </div>
 
