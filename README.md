@@ -44,7 +44,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### :electron: Мой прогресс(ссылки):
+### :electron: Мой прогресс (ссылки):
  <div id="badges">
     <a href="https://stepik.org/users/434117023/profile" target="_blank">
       <img src="assets/icons/stepik.png" width="45" height="45" alt="Stepik" />
