@@ -19,17 +19,12 @@
 ### 💻 & 🛠 Технологии и инструменты: 
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="Jupyter" alt="Jupyter" width="45" height="45"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="45" height="45"/>&nbsp
+  <img src="assets/django-icon-svgrepo-com.svg" title="Clickhouse" alt="Clickhouse" width="45" height="45"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="Postgresql" alt="Postgresql" width="45" height="45"/>&nbsp
-  <img src="assets/icons/clickhouse.svg" title="Clickhouse" alt="Clickhouse" width="45" height="45"/>&nbsp
+  <img src="assets/clickhouse.svg" title="Clickhouse" alt="Clickhouse" width="45" height="45"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="45" height="45"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="Numpy" alt="Numpy" width="45" height="45"/>&nbsp
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" title="Matplotlib" alt="Matplotlib" width="45" height="45"/>&nbsp
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" title="Scipy" alt="Scipy" width="45" height="45"/>&nbsp
-  <img src="assets/icons/tableau.svg" title="Tableau" alt="Tableau" width="45" height="45"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" title="Gitlab" alt="Gitlab" width="45" height="45"/>&nbsp
-  <img src="assets/icons/airflow.svg" title="Airflow" alt="Airflow" width="45" height="45"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="45" height="45"/>&nbsp
 </div>
 
